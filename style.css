@@ -19,8 +19,8 @@ li {
 /* base styles */
 body {
   background-color: var(--secondary);
-  overflow: hidden;
-  overflow-y: auto;
+  
+  overflow-x: hidden;
   font-family: "Rubik";
 }
 .button {
