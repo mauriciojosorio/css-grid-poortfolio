@@ -17,6 +17,10 @@ li {
   list-style-type: none;
 }
 /* base styles */
+html{
+  overflow-x: hidden;
+}
+
 body {
   background-color: var(--secondary);
   
